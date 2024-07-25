@@ -1,0 +1,13 @@
+python image_comparison.py -f "C:\Users\rakes\Desktop\Contrast-Aware Color Consistency Correction for Multiple Images\images\original_07.jpg" -s "C:\Users\rakes\Desktop\Contrast-Aware Color Consistency Correction for Multiple Images\images\original_07-11.jpg"
+
+
+python image_comparison.py -f "C:\Users\rakes\Downloads\Contrast-Aware Color Consistency Correction for Multiple Images\images\original_07.jpg" -s "C:\Users\rakes\Downloads\Contrast-Aware Color Consistency Correction for Multiple Images\images\original_07-11.jpg"
+
+
+
+
+python image_comparison.py -f "C:\Users\rakes\Downloads\Contrast-Aware Color Consistency Correction for Multiple Images\images\bor1.jpg" -s "C:\Users\rakes\Downloads\Contrast-Aware Color Consistency Correction for Multiple Images\images\bor2.jpg"
+
+
+
+python image_comparison.py -f "C:\Users\rakes\Desktop\Contrast-Aware Color Consistency Correction for Multiple Images\images\original_07.jpg" -s "C:\Users\rakes\Desktop\Contrast-Aware Color Consistency Correction for Multiple Images\images\original_07-11.jpg"
